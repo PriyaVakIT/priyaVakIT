@@ -1,6 +1,13 @@
 ##   👋 Hi, I'm Priya
 🚀 About Me
 - Core Skills : PHP, MySQL, Logical Design, Backend Architecture
+
+- | Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
+
 - | Rank | Skills |
 |-----:|-----------|
 |     1| PHP|
