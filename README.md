@@ -19,8 +19,9 @@ Here are a few projects I've worked on or am currently working on:
 - Open projects: Developing web apps  for SSE , developing and supporting tools for Small scale companies, and contributing to open-source.
 
 🔗 Connect with Me
-LinkedIn - Feel free to connect with me on LinkedIn !
-Portfolio/Website - View my portfolio or personal website
+
+- LinkedIn - Feel free to connect with me on LinkedIn !
+- Portfolio/Website - View my portfolio or personal website
 
 🌱 Learning & Growth
 
@@ -28,7 +29,7 @@ While I’m very comfortable with my PHP and MySQL expertise, I’m always excit
 - Git for version control and collaboration.
 - Bootstrap for faster and more responsive web design.
 - Exploring full-stack development with Laravel.
-- 
+
 I believe that the journey of learning never ends, and I look forward to growing and improving with every new project!
 
 ----------------------------------------- thanks ---------------------------------------------------------------------
