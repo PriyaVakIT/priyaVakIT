@@ -1,9 +1,9 @@
 ##   👋 Hi, I'm Priya
 🚀 About Me
-- Core Skills: PHP, MySQL, Logical Design, Backend Architecture
-- Current Focus: Improving my frontend and full-stack skills with tools like Bootstrap, Laravel, and AdminLTE.
-- Key Projects: Developed a real estate ERP system single-handedly, covering everything from user management to CRM integration.
-- Problem-Solving: I take pride in my ability to design and implement efficient, scalable solutions for real-world problems in the real estate sector.
+- Core Skills : PHP, MySQL, Logical Design, Backend Architecture
+- Current Focus : Improving my frontend and full-stack skills with tools like Bootstrap, Laravel, and AdminLTE.
+- Key Projects : Developed a real estate ERP system single-handedly, covering everything from user management to CRM integration.
+- Problem-Solving : I take pride in my ability to design and implement efficient, scalable solutions for real-world problems in the real estate sector.
 
 💼 What I'm Working On: 
 
@@ -15,8 +15,8 @@ I'm constantly striving to improve my skills and stay updated with the latest te
 🧑‍💻 My Projects
 
 Here are a few projects I've worked on or am currently working on:
-- Real Estate ERP: A custom-built ERP solution for managing all aspects of real estate business operations.
-- Open projects: Developing web apps  for SSE , developing and supporting tools for Small scale companies, and contributing to open-source.
+- Real Estate ERP : A custom-built ERP solution for managing all aspects of real estate business operations.
+- Open projects : Developing web apps  for SSE , developing and supporting tools for Small scale companies, and contributing to open-source.
 
 🔗 Connect with Me
 
